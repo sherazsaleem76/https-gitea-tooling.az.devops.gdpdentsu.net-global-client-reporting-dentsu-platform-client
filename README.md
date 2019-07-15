@@ -1,0 +1,1 @@
+# https-gitea-tooling.az.devops.gdpdentsu.net-global-client-reporting-dentsu-platform-client
